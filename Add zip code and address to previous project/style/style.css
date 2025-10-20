@@ -1,0 +1,246 @@
+body{
+    background-color: rgba(0, 0, 0, 0.955);
+    overflow-y: hidden;
+}
+
+.img{
+    width: 320px;
+    height: 320px;
+    position: absolute;
+    left: 380px;
+    top: 50px;
+}
+
+.img1{
+    width: 320px;
+    height: 320px;
+    position: absolute;
+    left: 985px;
+    top: 335px;
+}
+
+.img2{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    left: 780px;
+    top: 15px;
+}
+
+.img3{
+    width: 285px;
+    height: 285px;
+    position: absolute;
+    left: 15px;
+    top: 230px;
+}
+
+.img4{
+    width: 285px;
+    height: 285px;
+    position: absolute;
+    left: 285px;
+    top: 435px;
+}
+
+.img5{
+    width: 230px;
+    height: 230px;
+    position: absolute;
+    left: 1100px;
+    top: 55px;
+}
+
+.img6{
+    width: 230px;
+    height: 230px;
+    position: absolute;
+    left: 650px;
+    top: 400px;
+}
+
+.box{
+    width: 350px;
+    height: 500px;
+    background-color: greenyellow;
+    position: absolute;
+    top: 50px;
+    left: 159px;
+    border-radius: 15px;
+}
+
+.firstnameinput{
+    width: 200px;
+    height: 25px;
+    background-color: green;
+    border: 2px solid green;
+    border-radius: 4px;
+    color: yellow;
+    position: absolute;
+    top: 115px;
+    left: 230px;
+    font-size: 15px;
+}
+
+.firstnameinput::placeholder{
+    color: yellow;
+    font-size: 13px;
+}
+
+.firstnameinput:focus{
+    background-color: darkblue;
+}
+
+.lastnameinput{
+    width: 200px;
+    height: 25px;
+    background-color: green;
+    border: 2px solid green;
+    border-radius: 4px;
+    color: yellow;
+    position: absolute;
+    top: 165px;
+    left: 230px;
+    font-size: 15px;
+}
+
+.lastnameinput::placeholder{
+    color: yellow;
+    font-size: 13px;
+}
+
+.lastnameinput:focus{
+    background-color: darkblue;
+}
+
+.inputuserage{
+    width: 200px;
+    height: 25px;
+    background-color: green;
+    border: 2px solid green;
+    border-radius: 4px;
+    color: yellow;
+    position: absolute;
+    top: 215px;
+    left: 230px;
+    font-size: 15px;
+}
+
+.inputuserage::placeholder{
+    color: yellow;
+    font-size: 13px;
+}
+
+.inputuserage:focus{
+    background-color: darkblue;
+}
+
+.userjobinput{
+    width: 200px;
+    height: 25px;
+    background-color: green;
+    border: 2px solid green;
+    border-radius: 4px;
+    color: yellow;
+    position: absolute;
+    top: 265px;
+    left: 230px;
+    font-size: 15px;
+}
+
+.userjobinput::placeholder{
+    color: yellow;
+    font-size: 13px;
+}
+
+.userjobinput:focus{
+    background-color: darkblue;
+}
+
+.usersportinput{
+    width: 200px;
+    height: 25px;
+    background-color: green;
+    border: 2px solid green;
+    border-radius: 4px;
+    color: yellow;
+    position: absolute;
+    top: 315px;
+    left: 230px;
+    font-size: 15px;
+}
+
+.usersportinput::placeholder{
+    color: yellow;
+    font-size: 13px;
+}
+
+.usersportinput:focus{
+    background-color: darkblue;
+}
+
+.userpostalcodeinput{
+    width: 200px;
+    height: 25px;
+    background-color: green;
+    border: 2px solid green;
+    border-radius: 4px;
+    color: yellow;
+    position: absolute;
+    top: 365px;
+    left: 230px;
+    font-size: 15px;
+}
+
+.userpostalcodeinput::placeholder{
+    color: yellow;
+    font-size: 13px;
+}
+
+.userpostalcodeinput:focus{
+    background-color: darkblue;
+}
+
+.useraddressinput{
+    width: 200px;
+    height: 25px;
+    background-color: green;
+    border: 2px solid green;
+    border-radius: 4px;
+    color: yellow;
+    position: absolute;
+    top: 415px;
+    left: 230px;
+    font-size: 15px;
+}
+
+.useraddressinput::placeholder{
+    color: yellow;
+    font-size: 13px;
+}
+
+.useraddressinput:focus{
+    background-color: darkblue;
+}
+
+.inputsubmit{
+    width: 208px;
+    height: 30px;
+    background-color: green;
+    border: 2px solid green;
+    border-radius: 4px;
+    color: yellow;
+    position: absolute;
+    top: 465px;
+    left: 230px;
+}
+
+.inputsubmit:hover{
+    background-color: darkblue;
+    border: 2px solid darkblue;
+}
+
+.inputsubmit:focus{
+    background-color: darkblue;
+    border: 2px solid darkblue;
+}
